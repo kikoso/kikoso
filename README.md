@@ -6,7 +6,6 @@ I'm a software engineer originally from Madrid, Spain 🇪🇸, and based in Mun
 
 - 🔭 I’m currently working with Compose, KMP and Kotlin for Backend.
 - 💬 Ask me about Android, Java and Kotlin
-- 📫 How to reach me: [Twitter](https://twitter.com/eenriquelopez)
--->
+- 📫 How to reach me: Twitter --> [https://twitter.com/eenriquelopez](https://twitter.com/eenriquelopez)
 
 ![Enrique's github stats](https://github-readme-stats.vercel.app/api?username=kikoso&theme=dracula&show_icons=true&count_private=true)
