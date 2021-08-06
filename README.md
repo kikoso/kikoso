@@ -10,4 +10,4 @@ I'm a software engineer originally from Madrid, Spain 🇪🇸, and based in Mun
 ![Twitter Follow](https://img.shields.io/twitter/follow/eenriquelopez?style=social) 
 
 ![Enrique's github stats](https://github-readme-stats.vercel.app/api?username=kikoso&theme=dracula&show_icons=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username==kikoso&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kikoso&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
