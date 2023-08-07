@@ -8,5 +8,3 @@ I'm a software engineer originally from Madrid, Spain 🇪🇸, and based in Mun
 - 💬 Ask me about Android, Java and Kotlin.
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/eenriquelopez?style=social) 
-
-![Enrique's github stats](https://github-readme-stats.vercel.app/api?username=kikoso&theme=dracula&show_icons=true&count_private=true)
