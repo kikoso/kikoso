@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software engineer originally from Madrid, Spain 🇪🇸, and based in Munich, Germany 🇩🇪. I have been working as a freelancer for more than 7 years, and as a software engineer for 15 years. My main focus is Android and backend with Java and Kotlin. But I can tinker with any technology (I have some experience with Python for backend, RoR, NodeJS, Tensorflow, Scala...)
+I'm a software engineer originally from Madrid, Spain 🇪🇸, and based in Munich, Germany 🇩🇪. I have been working as a freelancer for more than 9 years, and as a software engineer for 16 years. My main focus is Android and backend with Java and Kotlin. But I can tinker with any technology (I have some experience with Python for backend, RoR, NodeJS, Tensorflow, Scala...)
 
 ## Some more background
 
